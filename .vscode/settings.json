@@ -1,0 +1,22 @@
+{
+    // Formatea el código automáticamente al guardar el archivo
+    "editor.formatOnSave": true,
+
+    // Usa el formateador de C# de OmniSharp
+    "editor.defaultFormatter": "ms-dotnettools.csharp",
+
+    // Habilita el resaltado de errores y advertencias en tiempo real
+    "csharp.enableRoslynAnalyzers": true,
+
+    // Muestra información de referencias sobre los métodos y clases
+    "csharp.showReferencesCodeLens": true,
+
+    // Indentación con 4 espacios, estándar en C#
+    "editor.tabSize": 4,
+
+    // Ordena y elimina los using innecesarios al guardar
+    "csharp.organizeUsingsOnFormat": true,
+    "dotnet.codeLens.enableReferencesCodeLens": true,
+    
+    "dotnet.defaultSolution": "Demo.sln"
+}

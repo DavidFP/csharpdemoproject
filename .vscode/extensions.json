@@ -1,0 +1,13 @@
+{
+    // Recomendaciones de extensiones para este proyecto
+    "recommendations": [
+        "ms-dotnettools.csdevkit",           // C# Dev Kit 🛠️
+        "visualstudioexptteam.vscodeintellicode", // IntelliCode 🤖
+        "josefpihrt-vscode.roslynator",      // Roslynator 🧠
+        "jmrog.vscode-nuget-package-manager",// NuGet Package Manager 📦
+        "eamodio.gitlens",                   // GitLens 🔍
+        "usernamehw.errorlens",              // Error Lens ⚠️
+        "christian-kohler.path-intellisense",// Path Intellisense 📂
+        "CoenraadS.bracket-pair-color-dlw"   // Bracket Pair Color DLW 🎨
+    ] 
+}
