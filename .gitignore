@@ -12,9 +12,6 @@ out/
 # Mono Auto Generated Files
 mono_crash.*
 
-# Visual Studio Code
-.vscode/
-
 # Rider
 .idea/
 *.sln.iml
